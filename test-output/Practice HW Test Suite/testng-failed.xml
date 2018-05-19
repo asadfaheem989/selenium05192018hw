@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Practice HW Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Practice Class Tests(failed)">
+    <classes>
+      <class name="TestNGHwPractice.ContactFormTest">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="contactForm"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestNGHwPractice.ContactFormTest -->
+    </classes>
+  </test> <!-- Practice Class Tests(failed) -->
+</suite> <!-- Failed suite [Practice HW Test Suite] -->

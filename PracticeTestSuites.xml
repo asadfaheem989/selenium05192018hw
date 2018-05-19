@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Practice HW Test Suite">
+	<test name="Practice Class Tests">
+		<classes>
+			<class name = "TestNGHwPractice.LoginPageTest"></class>
+			<class name = "TestNGHwPractice.ContactFormTest"></class>
+		</classes>
+	
+	
+	</test>
+</suite>
